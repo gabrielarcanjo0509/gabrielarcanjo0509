@@ -1,4 +1,4 @@
-Student Full Stack
+👨‍🎓  Student Full Stack
 
 Hello, i´m Gabriel Arcanjo 👋
 
